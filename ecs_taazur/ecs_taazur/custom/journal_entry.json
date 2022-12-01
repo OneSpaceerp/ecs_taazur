@@ -1,0 +1,32 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Journal Entry",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2022-02-01 14:18:42.210919",
+   "default_value": null,
+   "doc_type": "Journal Entry",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "accounts",
+   "idx": 0,
+   "modified": "2022-02-01 14:18:42.210919",
+   "modified_by": "Administrator",
+   "name": "Journal Entry-accounts-allow_bulk_edit",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "allow_bulk_edit",
+   "property_type": "Check",
+   "row_name": null,
+   "value": "1"
+  }
+ ],
+ "sync_on_migrate": 1
+}
