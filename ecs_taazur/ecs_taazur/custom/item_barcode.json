@@ -1,5 +1,5 @@
 {
- "custom_fields": [1],
+ "custom_fields": [],
  "custom_perms": [],
  "doctype": "Item Barcode",
  "property_setters": [
@@ -19,6 +19,7 @@
    "modified_by": "Administrator",
    "name": "Item Barcode-barcode-hidden",
    "owner": "Administrator",
+   "default_value": "100101",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
